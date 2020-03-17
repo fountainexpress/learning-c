@@ -1,2 +1,2 @@
 # learning-c
-this is a repo for learning c
+this is the repo for learning c...
